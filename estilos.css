@@ -1,0 +1,16 @@
+.numero1{
+    background-color: rgb(84, 221, 84);
+    margin: 0%;
+    height: 0%;
+}
+.topo{
+   padding-block: 50px;
+    padding-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    background-color: black;
+    color: white;
+}
+.topo1{
+    padding-top: 20px;
+}
